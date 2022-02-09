@@ -9,6 +9,10 @@ Muito provavelmente essa lista vai crescer com o passar do tempo.
 
  - 📚 Estudar Desenvolvimento
  - 🧰 Ferramentas
+	 - 🖌️ Cores
+	 - Hosts
+	 - 🖼️ Imagens
+	 - Performance
+	 - Texto
  - 📂 Recursos
- - 🖼️ Imagens
- - 🖌️ Cores
+
