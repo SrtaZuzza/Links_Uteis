@@ -16,3 +16,6 @@ Muitos cursos online gratuitos com a possibilidade de criação de projetos, al�
 
 [Escola virtual fundação bradesco](https://www.ev.org.br/)
 Mais cursos online gratuitos com certificado dentro da área de tecnologia e outros.
+
+[Coursera](https://www.coursera.org/search?query=ci%C3%AAncia%20da%20computa%C3%A7%C3%A3o)
+Site com cursos gratuitos e pagos em várias áreas, incluindo a de tecnologia.

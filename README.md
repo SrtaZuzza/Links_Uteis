@@ -7,8 +7,9 @@ Muito provavelmente essa lista vai crescer com o passar do tempo.
 
 ## Índice:
 
- - 📚 [Estudar Desenvolvimento](https://github.com/SrtaZuzza/Links_Uteis/blob/main/Desenvolvimento/Desenvolvimento.md) - Sites para quem está procurando mais fontes de estudo, cursos online com certificado e tudo completamente grátis.
-
+ - ⌨ Desenvolvimento
+ 	 - 📚 [Lista de sites](https://github.com/SrtaZuzza/Links_Uteis/blob/main/Desenvolvimento/Desenvolvimento.md) - Fontes de estudo, cursos online gratuitos e com certificado.
+     - 📺 [Playlists no Youtube](https://github.com/SrtaZuzza/Links_Uteis/blob/main/Desenvolvimento/Playlists.md) - Uma lista com várias subcategorias dentro da programação.
  - 🧰 Ferramentas
 	 - 🖌️ [Cores](https://github.com/SrtaZuzza/Links_Uteis/blob/main/Ferramentas/Cores.md) - Tabelas de cores, color-pickers e bibliotecas de paletas
 	 - 🖥️ [Hosts](https://github.com/SrtaZuzza/Links_Uteis/blob/main/Ferramentas/Hosts.md) - Hospedagem para suas imagens e códigos
